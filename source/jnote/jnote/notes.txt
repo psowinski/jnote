@@ -1,0 +1,3 @@
+﻿RTB
+http://www.wpf-tutorial.com/rich-text-controls/richtextbox-control/
+http://www.codeproject.com/Articles/37169/WPF-RichText-Editor
