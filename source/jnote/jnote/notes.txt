@@ -1,3 +1,9 @@
 ﻿RTB
 http://www.wpf-tutorial.com/rich-text-controls/richtextbox-control/
 http://www.codeproject.com/Articles/37169/WPF-RichText-Editor
+
+inteli sense
+http://www.codeproject.com/Articles/437175/Autocompletion-with-RichTextBox-in-WPF-as-Behavior
+
+
+http://stackoverflow.com/questions/343468/richtextbox-wpf-binding

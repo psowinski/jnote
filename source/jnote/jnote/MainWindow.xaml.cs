@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -20,9 +21,12 @@ namespace jnote
    /// </summary>
    public partial class MainWindow : Window
    {
+      private JSONDocument _doc = new JSONDocument();
+
       public MainWindow()
       {
          InitializeComponent();
+         _rtb.DataContext = _doc;
       }
    }
 }
